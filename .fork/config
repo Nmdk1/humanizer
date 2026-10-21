@@ -1,0 +1,6 @@
+# Settings for .fork/sync.sh in this fork.
+UPSTREAM_URL="https://github.com/blader/humanizer"
+TRACK="release"
+UPSTREAM_BRANCH="main"
+POINTER_TARGETS="CLAUDE.md AGENTS.md"
+LOCAL_TZ="America/Chicago"

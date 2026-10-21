@@ -1,0 +1,5 @@
+# Written by .fork/sync.sh. Do not edit by hand.
+version=v3.1.0
+upstream_commit=225a6f39ac85f76ee48dbad772ea4abe4ed6c9d8
+synced_on=2026-10-17
+checked=2026-10-21
